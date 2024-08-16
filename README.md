@@ -31,6 +31,7 @@
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
         <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white">
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white">
+        <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
         <h3 style="color: #c9d1d9; margin-top: 15px;">Framework</h3>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
