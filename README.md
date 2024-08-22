@@ -35,10 +35,7 @@
         <h3 style="color: #c9d1d9; margin-top: 15px;">Framework</h3>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
-        <h3 style="color: #c9d1d9; margin-top: 15px;">🛠 IDE & Tools</h3>
-        <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+   
     </div>
 </div>
 
