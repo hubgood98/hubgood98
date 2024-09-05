@@ -53,6 +53,6 @@
     <div style="text-align: left; margin: 10px 0;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubgood98&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff" />
         <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=hubgood98&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff"&contribs&count_private=true />
+        <img src="https://github-readme-stats.vercel.app/api?username=hubgood98&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff"&contribs&count_private=true&hide=stars />
     </div> 
 </div>
