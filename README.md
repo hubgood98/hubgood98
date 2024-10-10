@@ -10,7 +10,7 @@
         </ul>
     </div> 
 </div> 
-
+ 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #c9d1d9; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> 
     <div style="margin: 10px 0; text-align: left;">
