@@ -7,7 +7,7 @@
     <h2 style="border-bottom: 1px solid #c9d1d9; color: #c9d1d9;"> 가는길이 하는길 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
         <ul>
-            <li> "수동적인 개발보단 커뮤니케이션을 통한 주도적인 개발을 더 좋아합니다 </li>
+            <li> 수동적인 개발보단 커뮤니케이션을 통한 주도적인 개발을 더 좋아합니다 </li>
         </ul>
     </div> 
 </div> 
