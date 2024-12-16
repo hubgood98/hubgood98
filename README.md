@@ -40,6 +40,13 @@
     
 </div>
 
+<div style="text-align: left; margin: 20px 0;">
+    <h2 style="border-bottom: 1px solid #c9d1d9; color: #c9d1d9;"> 🌟 Portfolio </h2>
+    <p style="font-size: 16px; color: #c9d1d9;">
+        팀 프로젝트, Book-Store <a href="https://github.com/nhnacademy-be6-AA" target="_blank" style="color: #58a6ff; font-weight: bold;">링크 이동</a>! 🚀
+    </p>
+</div>
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #c9d1d9; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
     <div style="margin: 10px 0; text-align: left;">
